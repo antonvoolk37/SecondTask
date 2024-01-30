@@ -1,0 +1,7 @@
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\bin\Debug\SecondTask.exe.config
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\bin\Debug\SecondTask.exe
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\bin\Debug\SecondTask.pdb
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.AssemblyReference.cache
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\obj\Debug\SecondTask.exe
+D:\Универ 2 курс\числаки\SecondTask\SecondTask\obj\Debug\SecondTask.pdb
